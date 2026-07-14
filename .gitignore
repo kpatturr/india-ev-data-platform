@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*
+*.log
+
+# Local generated data
+data/landing/*
+data/raw/*
+data/archive/*
+data/rejected/*
+
+# Keep folder placeholders
+!data/landing/**/
+!data/raw/**/
+!data/archive/.gitkeep
+!data/rejected/**/
+!data/reference/
+!data/reference/**
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+
+# dbt
+dbt_ev_platform/target/
+dbt_ev_platform/logs/
+dbt_ev_platform/dbt_packages/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage
+.coverage
+htmlcov/

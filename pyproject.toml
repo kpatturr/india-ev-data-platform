@@ -1,0 +1,13 @@
+[project]
+name = "india-ev-data-platform"
+version = "0.1.0"
+description = "India EV adoption and charging infrastructure data platform"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"

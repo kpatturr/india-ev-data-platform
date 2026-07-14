@@ -1,0 +1,10 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+faker
+requests
+pyyaml
+pytest
+ruff
