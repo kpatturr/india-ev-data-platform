@@ -1,0 +1,37 @@
+state_id,state_name,entity_type,region,is_union_territory
+1,Andaman and Nicobar Islands,UNION_TERRITORY,Islands,true
+2,Andhra Pradesh,STATE,South,false
+3,Arunachal Pradesh,STATE,Northeast,false
+4,Assam,STATE,Northeast,false
+5,Bihar,STATE,East,false
+6,Chandigarh,UNION_TERRITORY,North,true
+7,Chhattisgarh,STATE,Central,false
+8,Dadra and Nagar Haveli and Daman and Diu,UNION_TERRITORY,West,true
+9,Delhi,UNION_TERRITORY,North,true
+10,Goa,STATE,West,false
+11,Gujarat,STATE,West,false
+12,Haryana,STATE,North,false
+13,Himachal Pradesh,STATE,North,false
+14,Jammu and Kashmir,UNION_TERRITORY,North,true
+15,Jharkhand,STATE,East,false
+16,Karnataka,STATE,South,false
+17,Kerala,STATE,South,false
+18,Ladakh,UNION_TERRITORY,North,true
+19,Lakshadweep,UNION_TERRITORY,Islands,true
+20,Madhya Pradesh,STATE,Central,false
+21,Maharashtra,STATE,West,false
+22,Manipur,STATE,Northeast,false
+23,Meghalaya,STATE,Northeast,false
+24,Mizoram,STATE,Northeast,false
+25,Nagaland,STATE,Northeast,false
+26,Odisha,STATE,East,false
+27,Puducherry,UNION_TERRITORY,South,true
+28,Punjab,STATE,North,false
+29,Rajasthan,STATE,North,false
+30,Sikkim,STATE,Northeast,false
+31,Tamil Nadu,STATE,South,false
+32,Telangana,STATE,South,false
+33,Tripura,STATE,Northeast,false
+34,Uttar Pradesh,STATE,North,false
+35,Uttarakhand,STATE,North,false
+36,West Bengal,STATE,East,false
