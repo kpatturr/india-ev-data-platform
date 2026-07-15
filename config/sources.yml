@@ -1,0 +1,13 @@
+sources:
+  ev_registration_pib_2019_2024:
+    enabled: true
+    source_name: pib_state_wise_ev_registration_2019_2024
+    source_type: official_government_web_table
+    publisher: Press Information Bureau, Government of India
+    upstream_data_source: VAHAN
+    source_url: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2084148"
+    publication_date: "2024-12-13"
+    reporting_period_start: "2019-04-01"
+    reporting_period_end: "2024-03-31"
+    landing_subdirectory: "data/landing/ev_registration"
+    output_basename: "pib_ev_registration_2019_2024"
